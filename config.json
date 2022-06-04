@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "sanzychan01"
   },
   "options": {
     "autoRead": false,
@@ -15,12 +15,12 @@
     "multi": "/database/killua-multi.json"
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "ZIT-BOT",
+    "author": "KING-ZIT"
   },
   "owner": [
-    "62812xxx"
+    "923336681780"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Powered by KING-ZIT"
 }
