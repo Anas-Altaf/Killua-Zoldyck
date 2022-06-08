@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/736x/ff/87/b7/ff87b70e9c9dea4d9ca32c9538a81c3b.jpg" alt="nz" width="350"/>
+<img src="https://i.ibb.co/TYMKtX8/2169093223010c16908cdc5e6102b65a.jpg" alt="nz" width="350"/>
 </p>
 
 ## Killua-Zoldyck
@@ -132,6 +132,8 @@ Read this wiki [How To Get IP access](https://github.com/zhwzein/Killua-Zoldyck/
 |   Webzone     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/webzone)      |
 	
 	Pull requests are welcome. Your contribution is helping me too
+	
+Group Support [Here](https://chat.whatsapp.com/G1e0U2lOTVAGKNjyFHjDGP)
 	
 </details>
 
