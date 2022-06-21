@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/TYMKtX8/2169093223010c16908cdc5e6102b65a.jpg" alt="nz" width="350"/>
+<img src="https://zenzapis.xyz/upload/icon.jpg" alt="nz" width="350"/>
 </p>
 
 ## Killua-Zoldyck
@@ -93,13 +93,6 @@ SCAN THE QR USING YOUR WHATSAPP!
 <b>Requirements:</b>
 * NodeJS buildpack
 * FFmpeg buildpack https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-</details>
-
-<!-- Attention -->
-<b><details><summary>Attention !</summary></b>  
-
-Read this wiki [How To Get IP access](https://github.com/zhwzein/Killua-Zoldyck/wiki/Get-IP-access)
-	
 </details>
 
 ---
